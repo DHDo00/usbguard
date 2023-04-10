@@ -50,6 +50,10 @@ Optionally, you may want to install:
  * https://github.com/seccomp/libseccomp[libseccomp] - used to implement a syscall allowlist
  * https://people.redhat.com/sgrubb/libcap-ng/[libcap-ng] - used to drop process capabilities
 
+Debian/Ubuntu or Linux mint
+Use the apt command or apt-get command on a Debian/Ubuntu or Linux mint:
+    $ sudo apt install usbguard usbutils udisks2
+
 If you are on a Debian based GNU/Linux distribution like Ubuntu 21.10,
 installation of all build dependencies would be something like this:
 
