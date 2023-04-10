@@ -52,6 +52,7 @@ Optionally, you may want to install:
 
 Debian/Ubuntu or Linux mint
 Use the apt command or apt-get command on a Debian/Ubuntu or Linux mint:
+
     $ sudo apt install usbguard usbutils udisks2
 
 If you are on a Debian based GNU/Linux distribution like Ubuntu 21.10,
